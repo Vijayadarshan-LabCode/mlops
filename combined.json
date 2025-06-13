@@ -1,0 +1,365 @@
+{"timestamp": "2025-06-12T20:36:52.467782", "log": {"level": "DEBUG", "message": "User not found"}, "metrics": {"cpu": 51.18, "latency": 1705.12}}
+{"timestamp": "2025-06-12T12:09:52.467891", "log": {"level": "INFO", "message": "Database reconnected"}, "metrics": {"cpu": 18.94, "latency": 728.91}}
+{"timestamp": "2025-06-11T06:32:52.467930", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 13.3, "latency": 61.74}}
+{"timestamp": "2025-06-10T08:27:52.467958", "log": {"level": "INFO", "message": "Health check passed"}, "metrics": {"cpu": 73.03, "latency": 1048.72}}
+{"timestamp": "2025-06-09T09:33:52.467985", "log": {"level": "DEBUG", "message": "Retry limit reached"}, "metrics": {"cpu": 20.62, "latency": 618.36}}
+{"timestamp": "2025-06-08T06:54:52.468007", "log": {"level": "INFO", "message": "Retry limit reached"}, "metrics": {"cpu": 22.05, "latency": 168.4}}
+{"timestamp": "2025-06-07T00:13:52.468026", "log": {"level": "ERROR", "message": "Timeout occurred"}, "metrics": {"cpu": 22.23, "latency": 1131.2}}
+{"timestamp": "2025-06-06T00:20:52.468047", "log": {"level": "DEBUG", "message": "Database reconnected"}, "metrics": {"cpu": 77.12, "latency": 1111.91}}
+{"timestamp": "2025-06-05T14:59:52.468066", "log": {"level": "DEBUG", "message": "Retry limit reached"}, "metrics": {"cpu": 13.08, "latency": 1746.46}}
+{"timestamp": "2025-06-04T02:57:52.468084", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 23.3, "latency": 1824.0}}
+{"timestamp": "2025-06-03T01:02:52.468102", "log": {"level": "DEBUG", "message": "User not found"}, "metrics": {"cpu": 46.9, "latency": 1534.59}}
+{"timestamp": "2025-06-02T05:09:52.468120", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 30.32, "latency": 1716.35}}
+{"timestamp": "2025-05-31T22:52:52.468138", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 13.02, "latency": 1377.55}}
+{"timestamp": "2025-05-31T00:40:52.468156", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 86.83, "latency": 1704.28}}
+{"timestamp": "2025-05-29T20:54:52.468174", "log": {"level": "INFO", "message": "Retry limit reached"}, "metrics": {"cpu": 26.78, "latency": 1181.44}}
+{"timestamp": "2025-05-28T23:56:52.468192", "log": {"level": "DEBUG", "message": "Retry limit reached"}, "metrics": {"cpu": 20.39, "latency": 671.59}}
+{"timestamp": "2025-05-28T11:54:52.468209", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 37.26, "latency": 1858.45}}
+{"timestamp": "2025-05-27T01:09:52.468244", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 58.15, "latency": 234.47}}
+{"timestamp": "2025-05-26T04:42:52.468297", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 17.94, "latency": 241.38}}
+{"timestamp": "2025-05-25T13:10:52.468328", "log": {"level": "DEBUG", "message": "User not found"}, "metrics": {"cpu": 87.46, "latency": 269.54}}
+{"timestamp": "2025-05-24T14:39:52.468369", "log": {"level": "ERROR", "message": "Authentication failed"}, "metrics": {"cpu": 45.43, "latency": 573.78}}
+{"timestamp": "2025-05-23T10:56:52.468417", "log": {"level": "ERROR", "message": "Service started"}, "metrics": {"cpu": 31.37, "latency": 1190.89}}
+{"timestamp": "2025-05-21T17:43:52.468446", "log": {"level": "ERROR", "message": "Retry limit reached"}, "metrics": {"cpu": 56.76, "latency": 739.95}}
+{"timestamp": "2025-05-20T21:19:52.468465", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 47.23, "latency": 1480.57}}
+{"timestamp": "2025-05-20T10:58:52.468483", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 24.9, "latency": 1698.9}}
+{"timestamp": "2025-05-19T08:30:52.468501", "log": {"level": "DEBUG", "message": "Health check passed"}, "metrics": {"cpu": 40.26, "latency": 1526.6}}
+{"timestamp": "2025-05-18T08:44:52.468518", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 49.24, "latency": 662.05}}
+{"timestamp": "2025-05-17T14:46:52.468536", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 43.87, "latency": 1235.4}}
+{"timestamp": "2025-05-16T07:17:52.468553", "log": {"level": "INFO", "message": "Timeout occurred"}, "metrics": {"cpu": 86.13, "latency": 1894.29}}
+{"timestamp": "2025-05-14T21:23:52.468571", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 62.75, "latency": 598.51}}
+{"timestamp": "2025-05-14T00:42:52.468588", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 13.6, "latency": 882.74}}
+{"timestamp": "2025-05-13T06:00:52.468605", "log": {"level": "DEBUG", "message": "Retry limit reached"}, "metrics": {"cpu": 25.0, "latency": 848.52}}
+{"timestamp": "2025-05-12T14:06:52.468628", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 42.62, "latency": 352.48}}
+{"timestamp": "2025-05-10T21:13:52.468646", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 39.93, "latency": 235.91}}
+{"timestamp": "2025-05-09T19:30:52.468663", "log": {"level": "ERROR", "message": "Retry limit reached"}, "metrics": {"cpu": 73.86, "latency": 1712.53}}
+{"timestamp": "2025-05-08T21:16:52.468679", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 85.43, "latency": 465.94}}
+{"timestamp": "2025-05-08T05:22:52.468696", "log": {"level": "DEBUG", "message": "Health check passed"}, "metrics": {"cpu": 48.94, "latency": 1473.16}}
+{"timestamp": "2025-05-07T01:00:52.468713", "log": {"level": "ERROR", "message": "Authentication failed"}, "metrics": {"cpu": 84.97, "latency": 1032.06}}
+{"timestamp": "2025-05-06T03:52:52.468730", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 54.82, "latency": 1414.48}}
+{"timestamp": "2025-05-04T21:20:52.468746", "log": {"level": "ERROR", "message": "Retry limit reached"}, "metrics": {"cpu": 90.02, "latency": 625.22}}
+{"timestamp": "2025-05-04T13:24:52.468763", "log": {"level": "INFO", "message": "Database reconnected"}, "metrics": {"cpu": 26.54, "latency": 1273.25}}
+{"timestamp": "2025-05-03T12:29:52.468781", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 46.43, "latency": 1347.38}}
+{"timestamp": "2025-05-02T02:45:52.468798", "log": {"level": "INFO", "message": "Database reconnected"}, "metrics": {"cpu": 20.75, "latency": 322.31}}
+{"timestamp": "2025-05-01T04:01:52.468814", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 32.03, "latency": 278.02}}
+{"timestamp": "2025-04-30T05:19:52.468831", "log": {"level": "DEBUG", "message": "Retry limit reached"}, "metrics": {"cpu": 79.06, "latency": 1177.9}}
+{"timestamp": "2025-04-28T21:36:52.468847", "log": {"level": "INFO", "message": "User not found"}, "metrics": {"cpu": 81.83, "latency": 1584.51}}
+{"timestamp": "2025-04-28T11:47:52.468864", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 28.07, "latency": 1242.33}}
+{"timestamp": "2025-04-26T22:32:52.468881", "log": {"level": "DEBUG", "message": "Health check passed"}, "metrics": {"cpu": 60.16, "latency": 524.03}}
+{"timestamp": "2025-04-25T22:43:52.468897", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 50.26, "latency": 1791.0}}
+{"timestamp": "2025-04-25T06:41:52.468917", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 80.35, "latency": 825.88}}
+{"timestamp": "2025-04-24T02:45:52.468934", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 32.0, "latency": 1276.68}}
+{"timestamp": "2025-04-22T16:22:52.468950", "log": {"level": "DEBUG", "message": "User not found"}, "metrics": {"cpu": 72.64, "latency": 299.01}}
+{"timestamp": "2025-04-22T10:20:52.468967", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 44.64, "latency": 542.17}}
+{"timestamp": "2025-04-20T15:31:52.468984", "log": {"level": "ERROR", "message": "Database reconnected"}, "metrics": {"cpu": 83.63, "latency": 1507.76}}
+{"timestamp": "2025-04-19T17:46:52.469211", "log": {"level": "DEBUG", "message": "Health check passed"}, "metrics": {"cpu": 36.63, "latency": 298.35}}
+{"timestamp": "2025-04-19T08:59:52.469241", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 40.41, "latency": 842.42}}
+{"timestamp": "2025-04-18T09:22:52.469260", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 20.31, "latency": 1689.53}}
+{"timestamp": "2025-04-16T18:58:52.469278", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 10.71, "latency": 1644.24}}
+{"timestamp": "2025-04-15T18:03:52.469308", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 44.15, "latency": 827.77}}
+{"timestamp": "2025-04-14T18:32:52.469331", "log": {"level": "DEBUG", "message": "Retry limit reached"}, "metrics": {"cpu": 38.08, "latency": 745.71}}
+{"timestamp": "2025-04-14T04:09:52.469365", "log": {"level": "ERROR", "message": "Retry limit reached"}, "metrics": {"cpu": 74.82, "latency": 908.52}}
+{"timestamp": "2025-04-13T00:17:52.469384", "log": {"level": "INFO", "message": "Health check passed"}, "metrics": {"cpu": 29.72, "latency": 1783.76}}
+{"timestamp": "2025-04-11T22:15:52.469402", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 22.65, "latency": 1672.39}}
+{"timestamp": "2025-04-10T17:52:52.469419", "log": {"level": "INFO", "message": "Retry limit reached"}, "metrics": {"cpu": 32.18, "latency": 558.95}}
+{"timestamp": "2025-04-10T12:03:52.469436", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 45.51, "latency": 772.0}}
+{"timestamp": "2025-04-08T15:43:52.469455", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 36.91, "latency": 362.14}}
+{"timestamp": "2025-04-08T01:58:52.469471", "log": {"level": "ERROR", "message": "Health check passed"}, "metrics": {"cpu": 10.99, "latency": 1770.93}}
+{"timestamp": "2025-04-07T01:17:52.469488", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 38.16, "latency": 1988.72}}
+{"timestamp": "2025-04-06T06:49:52.469504", "log": {"level": "INFO", "message": "Database reconnected"}, "metrics": {"cpu": 65.05, "latency": 1505.89}}
+{"timestamp": "2025-04-04T16:25:52.469521", "log": {"level": "ERROR", "message": "Database reconnected"}, "metrics": {"cpu": 41.48, "latency": 1719.25}}
+{"timestamp": "2025-04-04T01:09:52.469538", "log": {"level": "ERROR", "message": "Database reconnected"}, "metrics": {"cpu": 81.58, "latency": 434.79}}
+{"timestamp": "2025-04-02T23:27:52.469555", "log": {"level": "ERROR", "message": "Timeout occurred"}, "metrics": {"cpu": 93.76, "latency": 343.04}}
+{"timestamp": "2025-04-02T06:59:52.469571", "log": {"level": "DEBUG", "message": "User not found"}, "metrics": {"cpu": 64.09, "latency": 1321.3}}
+{"timestamp": "2025-04-01T05:53:52.469588", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 60.25, "latency": 137.28}}
+{"timestamp": "2025-03-31T04:52:52.469604", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 38.41, "latency": 1012.98}}
+{"timestamp": "2025-03-29T22:40:52.469621", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 81.94, "latency": 1326.31}}
+{"timestamp": "2025-03-28T16:30:52.469638", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 50.05, "latency": 979.29}}
+{"timestamp": "2025-03-28T00:45:52.469655", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 94.44, "latency": 370.58}}
+{"timestamp": "2025-03-26T16:39:52.469671", "log": {"level": "ERROR", "message": "Timeout occurred"}, "metrics": {"cpu": 11.24, "latency": 772.08}}
+{"timestamp": "2025-03-26T10:05:52.469688", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 42.42, "latency": 93.59}}
+{"timestamp": "2025-03-25T09:43:52.469704", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 29.22, "latency": 775.05}}
+{"timestamp": "2025-03-24T06:16:52.469721", "log": {"level": "DEBUG", "message": "Health check passed"}, "metrics": {"cpu": 21.58, "latency": 306.14}}
+{"timestamp": "2025-03-22T16:12:52.469737", "log": {"level": "DEBUG", "message": "Database reconnected"}, "metrics": {"cpu": 38.28, "latency": 779.52}}
+{"timestamp": "2025-03-21T16:41:52.469754", "log": {"level": "INFO", "message": "User not found"}, "metrics": {"cpu": 86.52, "latency": 728.47}}
+{"timestamp": "2025-03-21T01:58:52.469770", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 76.26, "latency": 1387.77}}
+{"timestamp": "2025-03-19T18:49:52.469787", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 68.32, "latency": 1359.66}}
+{"timestamp": "2025-03-18T23:19:52.469803", "log": {"level": "ERROR", "message": "Health check passed"}, "metrics": {"cpu": 69.97, "latency": 247.4}}
+{"timestamp": "2025-03-18T11:47:52.469820", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 70.51, "latency": 591.84}}
+{"timestamp": "2025-03-17T07:31:52.469837", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 70.7, "latency": 1893.88}}
+{"timestamp": "2025-03-15T20:25:52.469853", "log": {"level": "INFO", "message": "Timeout occurred"}, "metrics": {"cpu": 19.96, "latency": 1437.44}}
+{"timestamp": "2025-03-15T06:21:52.469870", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 38.69, "latency": 72.21}}
+{"timestamp": "2025-03-13T21:44:52.469887", "log": {"level": "ERROR", "message": "Timeout occurred"}, "metrics": {"cpu": 46.94, "latency": 226.08}}
+{"timestamp": "2025-03-13T03:55:52.469903", "log": {"level": "INFO", "message": "Retry limit reached"}, "metrics": {"cpu": 32.55, "latency": 297.09}}
+{"timestamp": "2025-03-12T06:46:52.469920", "log": {"level": "INFO", "message": "Health check passed"}, "metrics": {"cpu": 52.93, "latency": 1440.92}}
+{"timestamp": "2025-03-11T14:20:52.469937", "log": {"level": "DEBUG", "message": "Health check passed"}, "metrics": {"cpu": 28.33, "latency": 874.4}}
+{"timestamp": "2025-03-10T05:10:52.469953", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 22.73, "latency": 1126.97}}
+{"timestamp": "2025-03-08T23:51:52.469970", "log": {"level": "ERROR", "message": "Service started"}, "metrics": {"cpu": 30.12, "latency": 388.92}}
+{"timestamp": "2025-03-07T22:08:52.469986", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 66.74, "latency": 1230.64}}
+{"timestamp": "2025-03-06T20:22:52.470003", "log": {"level": "ERROR", "message": "Database reconnected"}, "metrics": {"cpu": 63.54, "latency": 904.23}}
+{"timestamp": "2025-03-05T21:29:52.470019", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 62.84, "latency": 1243.65}}
+{"timestamp": "2025-03-05T09:18:52.470036", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 83.66, "latency": 1042.34}}
+{"timestamp": "2025-03-03T18:34:52.470053", "log": {"level": "ERROR", "message": "Database reconnected"}, "metrics": {"cpu": 90.44, "latency": 1199.98}}
+{"timestamp": "2025-03-03T09:05:52.470069", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 59.21, "latency": 69.28}}
+{"timestamp": "2025-03-01T21:57:52.470085", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 15.72, "latency": 1215.36}}
+{"timestamp": "2025-03-01T06:26:52.470102", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 82.89, "latency": 1327.73}}
+{"timestamp": "2025-02-28T11:37:52.470118", "log": {"level": "ERROR", "message": "Health check passed"}, "metrics": {"cpu": 65.73, "latency": 316.14}}
+{"timestamp": "2025-02-27T06:56:52.470135", "log": {"level": "DEBUG", "message": "Retry limit reached"}, "metrics": {"cpu": 47.16, "latency": 1579.33}}
+{"timestamp": "2025-02-26T08:18:52.470151", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 10.37, "latency": 1005.01}}
+{"timestamp": "2025-02-25T03:10:52.470235", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 87.29, "latency": 144.01}}
+{"timestamp": "2025-02-24T01:53:52.470262", "log": {"level": "INFO", "message": "Timeout occurred"}, "metrics": {"cpu": 21.72, "latency": 330.31}}
+{"timestamp": "2025-02-23T08:56:52.470279", "log": {"level": "DEBUG", "message": "User not found"}, "metrics": {"cpu": 35.38, "latency": 1118.88}}
+{"timestamp": "2025-02-22T10:42:52.470296", "log": {"level": "INFO", "message": "Retry limit reached"}, "metrics": {"cpu": 66.2, "latency": 1467.05}}
+{"timestamp": "2025-02-20T21:16:52.470313", "log": {"level": "ERROR", "message": "Service started"}, "metrics": {"cpu": 93.17, "latency": 1403.72}}
+{"timestamp": "2025-02-20T10:31:52.470330", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 49.85, "latency": 137.25}}
+{"timestamp": "2025-02-18T17:17:52.470347", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 80.95, "latency": 1364.24}}
+{"timestamp": "2025-02-17T23:13:52.470363", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 78.62, "latency": 204.06}}
+{"timestamp": "2025-02-16T23:22:52.470380", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 35.92, "latency": 220.63}}
+{"timestamp": "2025-02-16T08:25:52.470396", "log": {"level": "ERROR", "message": "Retry limit reached"}, "metrics": {"cpu": 27.07, "latency": 810.35}}
+{"timestamp": "2025-02-15T14:47:52.470413", "log": {"level": "INFO", "message": "Retry limit reached"}, "metrics": {"cpu": 80.6, "latency": 1831.22}}
+{"timestamp": "2025-02-13T19:23:52.470430", "log": {"level": "INFO", "message": "User not found"}, "metrics": {"cpu": 58.04, "latency": 1542.09}}
+{"timestamp": "2025-02-13T08:47:52.470447", "log": {"level": "ERROR", "message": "Timeout occurred"}, "metrics": {"cpu": 50.94, "latency": 501.75}}
+{"timestamp": "2025-02-12T05:45:52.470464", "log": {"level": "ERROR", "message": "Authentication failed"}, "metrics": {"cpu": 92.14, "latency": 256.49}}
+{"timestamp": "2025-02-11T11:15:52.470480", "log": {"level": "DEBUG", "message": "Health check passed"}, "metrics": {"cpu": 80.01, "latency": 1094.05}}
+{"timestamp": "2025-02-10T14:22:52.470497", "log": {"level": "INFO", "message": "User not found"}, "metrics": {"cpu": 71.67, "latency": 411.97}}
+{"timestamp": "2025-02-09T02:05:52.470514", "log": {"level": "DEBUG", "message": "Authentication failed"}, "metrics": {"cpu": 20.62, "latency": 1476.03}}
+{"timestamp": "2025-02-08T03:58:52.470531", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 11.56, "latency": 1124.92}}
+{"timestamp": "2025-02-07T02:55:52.470547", "log": {"level": "INFO", "message": "Database reconnected"}, "metrics": {"cpu": 61.25, "latency": 838.81}}
+{"timestamp": "2025-02-06T14:09:52.470564", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 15.46, "latency": 1985.86}}
+{"timestamp": "2025-02-05T12:49:52.470582", "log": {"level": "INFO", "message": "Health check passed"}, "metrics": {"cpu": 38.5, "latency": 316.35}}
+{"timestamp": "2025-02-03T16:15:52.470599", "log": {"level": "ERROR", "message": "Health check passed"}, "metrics": {"cpu": 74.11, "latency": 1299.21}}
+{"timestamp": "2025-02-03T01:36:52.470616", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 54.85, "latency": 851.3}}
+{"timestamp": "2025-02-02T02:24:52.470632", "log": {"level": "DEBUG", "message": "Database reconnected"}, "metrics": {"cpu": 70.87, "latency": 1748.91}}
+{"timestamp": "2025-02-01T10:30:52.470649", "log": {"level": "INFO", "message": "Database reconnected"}, "metrics": {"cpu": 65.05, "latency": 382.72}}
+{"timestamp": "2025-01-31T14:11:52.470665", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 28.99, "latency": 149.01}}
+{"timestamp": "2025-01-29T19:22:52.470682", "log": {"level": "DEBUG", "message": "Retry limit reached"}, "metrics": {"cpu": 63.58, "latency": 1512.55}}
+{"timestamp": "2025-01-29T01:14:52.470698", "log": {"level": "ERROR", "message": "Health check passed"}, "metrics": {"cpu": 87.17, "latency": 750.55}}
+{"timestamp": "2025-01-28T01:42:52.470714", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 31.53, "latency": 1748.25}}
+{"timestamp": "2025-01-26T18:33:52.470731", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 72.6, "latency": 1234.92}}
+{"timestamp": "2025-01-25T23:07:52.470748", "log": {"level": "ERROR", "message": "Timeout occurred"}, "metrics": {"cpu": 93.84, "latency": 1820.17}}
+{"timestamp": "2025-01-25T02:10:52.470764", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 16.06, "latency": 1381.2}}
+{"timestamp": "2025-01-24T08:49:52.470780", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 47.79, "latency": 1485.49}}
+{"timestamp": "2025-01-23T05:28:52.470797", "log": {"level": "DEBUG", "message": "Database reconnected"}, "metrics": {"cpu": 43.44, "latency": 1967.88}}
+{"timestamp": "2025-01-22T07:52:52.470814", "log": {"level": "ERROR", "message": "Timeout occurred"}, "metrics": {"cpu": 88.96, "latency": 1960.22}}
+{"timestamp": "2025-01-21T12:45:52.470830", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 82.72, "latency": 1814.4}}
+{"timestamp": "2025-01-19T23:50:52.470847", "log": {"level": "ERROR", "message": "Health check passed"}, "metrics": {"cpu": 24.07, "latency": 750.21}}
+{"timestamp": "2025-01-19T03:22:52.470863", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 61.33, "latency": 1465.36}}
+{"timestamp": "2025-01-17T15:54:52.470880", "log": {"level": "ERROR", "message": "Service started"}, "metrics": {"cpu": 87.79, "latency": 186.54}}
+{"timestamp": "2025-01-16T18:10:52.470896", "log": {"level": "DEBUG", "message": "Retry limit reached"}, "metrics": {"cpu": 64.7, "latency": 371.83}}
+{"timestamp": "2025-01-16T05:17:52.470913", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 29.69, "latency": 657.41}}
+{"timestamp": "2025-01-15T11:08:52.470929", "log": {"level": "INFO", "message": "Health check passed"}, "metrics": {"cpu": 32.15, "latency": 202.89}}
+{"timestamp": "2025-01-14T05:29:52.470946", "log": {"level": "ERROR", "message": "Timeout occurred"}, "metrics": {"cpu": 30.12, "latency": 1907.46}}
+{"timestamp": "2025-01-13T03:04:52.470963", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 56.89, "latency": 577.95}}
+{"timestamp": "2025-01-11T22:33:52.470979", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 84.37, "latency": 443.87}}
+{"timestamp": "2025-01-11T06:04:52.470996", "log": {"level": "INFO", "message": "Timeout occurred"}, "metrics": {"cpu": 40.75, "latency": 1749.83}}
+{"timestamp": "2025-01-09T18:14:52.471013", "log": {"level": "ERROR", "message": "Database reconnected"}, "metrics": {"cpu": 52.57, "latency": 1394.7}}
+{"timestamp": "2025-01-08T21:37:52.471029", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 63.76, "latency": 1614.92}}
+{"timestamp": "2025-01-07T19:36:52.471046", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 37.76, "latency": 1878.47}}
+{"timestamp": "2025-01-07T11:15:52.471062", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 11.48, "latency": 1673.18}}
+{"timestamp": "2025-01-05T21:55:52.471079", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 91.39, "latency": 813.53}}
+{"timestamp": "2025-01-05T14:42:52.471096", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 26.21, "latency": 1612.0}}
+{"timestamp": "2025-01-03T17:02:52.471112", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 38.93, "latency": 1549.07}}
+{"timestamp": "2025-01-02T16:02:52.471129", "log": {"level": "ERROR", "message": "Service started"}, "metrics": {"cpu": 14.74, "latency": 239.98}}
+{"timestamp": "2025-01-01T23:56:52.471149", "log": {"level": "ERROR", "message": "Authentication failed"}, "metrics": {"cpu": 28.13, "latency": 197.73}}
+{"timestamp": "2025-01-01T04:33:52.471189", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 52.26, "latency": 766.17}}
+{"timestamp": "2024-12-31T10:17:52.471212", "log": {"level": "DEBUG", "message": "Health check passed"}, "metrics": {"cpu": 57.39, "latency": 1774.16}}
+{"timestamp": "2024-12-30T12:22:52.471229", "log": {"level": "ERROR", "message": "Health check passed"}, "metrics": {"cpu": 10.31, "latency": 1791.94}}
+{"timestamp": "2024-12-29T11:06:52.471246", "log": {"level": "DEBUG", "message": "User not found"}, "metrics": {"cpu": 59.24, "latency": 1775.2}}
+{"timestamp": "2024-12-27T18:30:52.471262", "log": {"level": "ERROR", "message": "Health check passed"}, "metrics": {"cpu": 54.79, "latency": 873.61}}
+{"timestamp": "2024-12-27T00:15:52.471279", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 84.1, "latency": 1537.28}}
+{"timestamp": "2024-12-26T15:10:52.471297", "log": {"level": "ERROR", "message": "Retry limit reached"}, "metrics": {"cpu": 39.02, "latency": 1808.86}}
+{"timestamp": "2024-12-25T06:27:52.471327", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 73.57, "latency": 779.52}}
+{"timestamp": "2024-12-24T03:17:52.471346", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 26.25, "latency": 1640.87}}
+{"timestamp": "2024-12-23T01:23:52.471363", "log": {"level": "ERROR", "message": "Health check passed"}, "metrics": {"cpu": 92.88, "latency": 654.49}}
+{"timestamp": "2024-12-22T05:07:52.471380", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 67.64, "latency": 1859.41}}
+{"timestamp": "2024-12-21T09:15:52.471396", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 90.67, "latency": 1238.49}}
+{"timestamp": "2024-12-20T07:02:52.471413", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 31.72, "latency": 1706.3}}
+{"timestamp": "2024-12-18T18:32:52.471429", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 57.46, "latency": 1021.89}}
+{"timestamp": "2024-12-17T16:21:52.471445", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 31.18, "latency": 1347.73}}
+{"timestamp": "2024-12-17T05:56:52.471461", "log": {"level": "ERROR", "message": "Database reconnected"}, "metrics": {"cpu": 31.24, "latency": 1360.4}}
+{"timestamp": "2024-12-15T15:29:52.471478", "log": {"level": "DEBUG", "message": "Authentication failed"}, "metrics": {"cpu": 62.86, "latency": 1827.91}}
+{"timestamp": "2024-12-15T11:48:52.471494", "log": {"level": "ERROR", "message": "Health check passed"}, "metrics": {"cpu": 93.2, "latency": 490.33}}
+{"timestamp": "2024-12-13T18:47:52.471511", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 90.25, "latency": 861.71}}
+{"timestamp": "2024-12-13T11:38:52.471527", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 69.65, "latency": 592.55}}
+{"timestamp": "2024-12-12T11:11:52.471544", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 58.37, "latency": 1768.1}}
+{"timestamp": "2024-12-11T13:49:52.471560", "log": {"level": "INFO", "message": "User not found"}, "metrics": {"cpu": 33.98, "latency": 646.28}}
+{"timestamp": "2024-12-10T11:33:52.471577", "log": {"level": "DEBUG", "message": "Authentication failed"}, "metrics": {"cpu": 35.46, "latency": 1665.79}}
+{"timestamp": "2024-12-09T06:12:52.471593", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 63.41, "latency": 117.94}}
+{"timestamp": "2024-12-07T18:49:52.471610", "log": {"level": "DEBUG", "message": "Retry limit reached"}, "metrics": {"cpu": 72.68, "latency": 323.88}}
+{"timestamp": "2024-12-06T19:44:52.471626", "log": {"level": "INFO", "message": "User not found"}, "metrics": {"cpu": 69.06, "latency": 1795.75}}
+{"timestamp": "2024-12-06T11:05:52.471642", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 22.35, "latency": 1377.6}}
+{"timestamp": "2024-12-04T18:28:52.471659", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 33.7, "latency": 1397.58}}
+{"timestamp": "2024-12-03T22:04:52.471676", "log": {"level": "ERROR", "message": "Timeout occurred"}, "metrics": {"cpu": 21.16, "latency": 1351.03}}
+{"timestamp": "2024-12-03T04:04:52.471693", "log": {"level": "ERROR", "message": "Database reconnected"}, "metrics": {"cpu": 15.17, "latency": 1260.73}}
+{"timestamp": "2024-12-02T01:41:52.471710", "log": {"level": "INFO", "message": "Database reconnected"}, "metrics": {"cpu": 92.72, "latency": 394.75}}
+{"timestamp": "2024-12-01T05:20:52.471726", "log": {"level": "INFO", "message": "Health check passed"}, "metrics": {"cpu": 18.16, "latency": 821.99}}
+{"timestamp": "2024-11-29T20:38:52.471742", "log": {"level": "DEBUG", "message": "Health check passed"}, "metrics": {"cpu": 71.54, "latency": 1525.43}}
+{"timestamp": "2024-11-28T16:26:52.471759", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 54.76, "latency": 838.26}}
+{"timestamp": "2024-11-28T04:52:52.471775", "log": {"level": "DEBUG", "message": "Authentication failed"}, "metrics": {"cpu": 28.11, "latency": 1248.61}}
+{"timestamp": "2024-11-26T21:00:52.471791", "log": {"level": "ERROR", "message": "Database reconnected"}, "metrics": {"cpu": 84.56, "latency": 703.44}}
+{"timestamp": "2024-11-25T20:22:52.471808", "log": {"level": "ERROR", "message": "Retry limit reached"}, "metrics": {"cpu": 42.22, "latency": 1599.15}}
+{"timestamp": "2024-11-24T23:58:52.471824", "log": {"level": "ERROR", "message": "Retry limit reached"}, "metrics": {"cpu": 34.7, "latency": 787.01}}
+{"timestamp": "2024-11-24T10:28:52.471841", "log": {"level": "INFO", "message": "Health check passed"}, "metrics": {"cpu": 71.32, "latency": 777.47}}
+{"timestamp": "2024-11-23T09:08:52.471857", "log": {"level": "INFO", "message": "User not found"}, "metrics": {"cpu": 77.57, "latency": 691.91}}
+{"timestamp": "2024-11-21T21:19:52.471874", "log": {"level": "ERROR", "message": "Database reconnected"}, "metrics": {"cpu": 80.38, "latency": 830.59}}
+{"timestamp": "2024-11-21T03:00:52.471890", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 51.81, "latency": 286.55}}
+{"timestamp": "2024-11-20T02:49:52.471907", "log": {"level": "INFO", "message": "Database reconnected"}, "metrics": {"cpu": 20.46, "latency": 1665.7}}
+{"timestamp": "2024-11-18T23:16:52.471923", "log": {"level": "ERROR", "message": "Authentication failed"}, "metrics": {"cpu": 23.04, "latency": 454.81}}
+{"timestamp": "2024-11-18T02:09:52.471940", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 94.54, "latency": 999.53}}
+{"timestamp": "2024-11-16T18:39:52.471956", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 33.3, "latency": 576.59}}
+{"timestamp": "2024-11-16T00:37:52.471973", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 92.64, "latency": 517.06}}
+{"timestamp": "2024-11-15T07:53:52.471989", "log": {"level": "ERROR", "message": "Authentication failed"}, "metrics": {"cpu": 74.12, "latency": 911.37}}
+{"timestamp": "2024-11-14T04:27:52.472006", "log": {"level": "INFO", "message": "Retry limit reached"}, "metrics": {"cpu": 29.67, "latency": 1204.37}}
+{"timestamp": "2024-11-13T03:23:52.472022", "log": {"level": "ERROR", "message": "Service started"}, "metrics": {"cpu": 29.37, "latency": 1292.89}}
+{"timestamp": "2024-11-12T10:35:52.472038", "log": {"level": "DEBUG", "message": "User not found"}, "metrics": {"cpu": 65.88, "latency": 427.11}}
+{"timestamp": "2024-11-10T16:32:52.472055", "log": {"level": "DEBUG", "message": "Health check passed"}, "metrics": {"cpu": 34.64, "latency": 926.81}}
+{"timestamp": "2024-11-09T19:44:52.472071", "log": {"level": "DEBUG", "message": "Retry limit reached"}, "metrics": {"cpu": 88.25, "latency": 1553.59}}
+{"timestamp": "2024-11-08T20:04:52.472087", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 50.78, "latency": 1949.8}}
+{"timestamp": "2024-11-07T23:22:52.472153", "log": {"level": "ERROR", "message": "Health check passed"}, "metrics": {"cpu": 52.06, "latency": 1112.94}}
+{"timestamp": "2024-11-07T03:33:52.472178", "log": {"level": "INFO", "message": "Retry limit reached"}, "metrics": {"cpu": 40.95, "latency": 547.07}}
+{"timestamp": "2024-11-06T15:19:52.472196", "log": {"level": "ERROR", "message": "Database reconnected"}, "metrics": {"cpu": 61.43, "latency": 533.37}}
+{"timestamp": "2024-11-05T01:52:52.472212", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 58.96, "latency": 1407.05}}
+{"timestamp": "2024-11-04T11:55:52.472239", "log": {"level": "ERROR", "message": "Authentication failed"}, "metrics": {"cpu": 73.37, "latency": 128.23}}
+{"timestamp": "2024-11-03T10:33:52.472258", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 12.47, "latency": 994.53}}
+{"timestamp": "2024-11-01T21:26:52.472274", "log": {"level": "DEBUG", "message": "User not found"}, "metrics": {"cpu": 44.79, "latency": 235.03}}
+{"timestamp": "2024-10-31T19:09:52.472291", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 85.66, "latency": 1492.48}}
+{"timestamp": "2024-10-30T23:15:52.472308", "log": {"level": "INFO", "message": "Database reconnected"}, "metrics": {"cpu": 83.79, "latency": 459.7}}
+{"timestamp": "2024-10-29T18:11:52.472325", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 21.55, "latency": 651.65}}
+{"timestamp": "2024-10-28T16:40:52.472342", "log": {"level": "ERROR", "message": "Authentication failed"}, "metrics": {"cpu": 50.39, "latency": 1021.24}}
+{"timestamp": "2024-10-28T10:19:52.472358", "log": {"level": "DEBUG", "message": "Database reconnected"}, "metrics": {"cpu": 85.29, "latency": 1173.19}}
+{"timestamp": "2024-10-26T19:15:52.472375", "log": {"level": "INFO", "message": "Retry limit reached"}, "metrics": {"cpu": 20.52, "latency": 72.59}}
+{"timestamp": "2024-10-26T03:01:52.472391", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 42.64, "latency": 561.89}}
+{"timestamp": "2024-10-25T02:27:52.472408", "log": {"level": "INFO", "message": "Health check passed"}, "metrics": {"cpu": 13.04, "latency": 1982.46}}
+{"timestamp": "2024-10-24T11:44:52.472424", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 53.56, "latency": 913.35}}
+{"timestamp": "2024-10-22T21:00:52.472441", "log": {"level": "INFO", "message": "Health check passed"}, "metrics": {"cpu": 65.27, "latency": 995.63}}
+{"timestamp": "2024-10-22T08:36:52.472457", "log": {"level": "DEBUG", "message": "Retry limit reached"}, "metrics": {"cpu": 72.35, "latency": 1964.4}}
+{"timestamp": "2024-10-20T23:29:52.472474", "log": {"level": "ERROR", "message": "Timeout occurred"}, "metrics": {"cpu": 85.25, "latency": 559.51}}
+{"timestamp": "2024-10-20T02:11:52.472490", "log": {"level": "INFO", "message": "Timeout occurred"}, "metrics": {"cpu": 79.63, "latency": 1795.3}}
+{"timestamp": "2024-10-19T08:10:52.472507", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 93.13, "latency": 1990.87}}
+{"timestamp": "2024-10-18T11:27:52.472524", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 70.01, "latency": 134.84}}
+{"timestamp": "2024-10-16T15:56:52.472540", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 18.41, "latency": 1321.34}}
+{"timestamp": "2024-10-16T00:49:52.472557", "log": {"level": "ERROR", "message": "Retry limit reached"}, "metrics": {"cpu": 57.9, "latency": 1602.66}}
+{"timestamp": "2024-10-14T17:37:52.472573", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 39.64, "latency": 804.06}}
+{"timestamp": "2024-10-14T06:34:52.472590", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 49.04, "latency": 1579.84}}
+{"timestamp": "2024-10-12T18:26:52.472606", "log": {"level": "INFO", "message": "Retry limit reached"}, "metrics": {"cpu": 36.88, "latency": 296.55}}
+{"timestamp": "2024-10-12T13:14:52.472622", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 69.43, "latency": 1618.26}}
+{"timestamp": "2024-10-11T00:20:52.472639", "log": {"level": "ERROR", "message": "Database reconnected"}, "metrics": {"cpu": 39.0, "latency": 1753.31}}
+{"timestamp": "2024-10-09T15:48:52.472656", "log": {"level": "INFO", "message": "Health check passed"}, "metrics": {"cpu": 33.29, "latency": 1165.59}}
+{"timestamp": "2024-10-09T11:00:52.472673", "log": {"level": "ERROR", "message": "Retry limit reached"}, "metrics": {"cpu": 14.11, "latency": 533.94}}
+{"timestamp": "2024-10-08T07:05:52.472690", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 49.33, "latency": 1199.18}}
+{"timestamp": "2024-10-07T04:27:52.472707", "log": {"level": "ERROR", "message": "Service started"}, "metrics": {"cpu": 45.79, "latency": 1881.94}}
+{"timestamp": "2024-10-06T04:50:52.472723", "log": {"level": "DEBUG", "message": "Retry limit reached"}, "metrics": {"cpu": 62.55, "latency": 1434.92}}
+{"timestamp": "2024-10-05T11:46:52.472739", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 79.8, "latency": 358.85}}
+{"timestamp": "2024-10-03T20:14:52.472757", "log": {"level": "INFO", "message": "Database reconnected"}, "metrics": {"cpu": 48.24, "latency": 334.46}}
+{"timestamp": "2024-10-03T02:25:52.472773", "log": {"level": "DEBUG", "message": "Health check passed"}, "metrics": {"cpu": 19.48, "latency": 177.7}}
+{"timestamp": "2024-10-02T14:44:52.472790", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 13.99, "latency": 245.91}}
+{"timestamp": "2024-10-01T01:10:52.472806", "log": {"level": "ERROR", "message": "Health check passed"}, "metrics": {"cpu": 73.4, "latency": 154.28}}
+{"timestamp": "2024-09-29T20:23:52.472822", "log": {"level": "DEBUG", "message": "Database reconnected"}, "metrics": {"cpu": 26.0, "latency": 741.49}}
+{"timestamp": "2024-09-29T05:35:52.472840", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 53.11, "latency": 122.06}}
+{"timestamp": "2024-09-28T01:12:52.472857", "log": {"level": "DEBUG", "message": "Database reconnected"}, "metrics": {"cpu": 14.24, "latency": 1446.96}}
+{"timestamp": "2024-09-27T13:12:52.472875", "log": {"level": "DEBUG", "message": "User not found"}, "metrics": {"cpu": 53.96, "latency": 1081.21}}
+{"timestamp": "2024-09-25T21:29:52.472891", "log": {"level": "DEBUG", "message": "Health check passed"}, "metrics": {"cpu": 92.35, "latency": 543.78}}
+{"timestamp": "2024-09-25T09:45:52.472908", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 53.21, "latency": 520.37}}
+{"timestamp": "2024-09-24T12:31:52.472925", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 89.31, "latency": 1777.36}}
+{"timestamp": "2024-09-23T06:01:52.472941", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 80.56, "latency": 1734.38}}
+{"timestamp": "2024-09-22T11:55:52.472958", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 71.11, "latency": 1122.1}}
+{"timestamp": "2024-09-20T15:38:52.472975", "log": {"level": "ERROR", "message": "Timeout occurred"}, "metrics": {"cpu": 90.18, "latency": 1402.17}}
+{"timestamp": "2024-09-20T09:34:52.472991", "log": {"level": "DEBUG", "message": "Retry limit reached"}, "metrics": {"cpu": 74.56, "latency": 819.7}}
+{"timestamp": "2024-09-19T04:54:52.473007", "log": {"level": "ERROR", "message": "Database reconnected"}, "metrics": {"cpu": 60.75, "latency": 163.62}}
+{"timestamp": "2024-09-18T00:10:52.473024", "log": {"level": "DEBUG", "message": "Authentication failed"}, "metrics": {"cpu": 50.27, "latency": 1476.66}}
+{"timestamp": "2024-09-16T15:53:52.473040", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 62.28, "latency": 733.68}}
+{"timestamp": "2024-09-15T23:38:52.473057", "log": {"level": "INFO", "message": "Timeout occurred"}, "metrics": {"cpu": 16.51, "latency": 1823.8}}
+{"timestamp": "2024-09-14T22:44:52.473074", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 34.74, "latency": 1420.38}}
+{"timestamp": "2024-09-14T14:04:52.473111", "log": {"level": "ERROR", "message": "Authentication failed"}, "metrics": {"cpu": 37.79, "latency": 653.09}}
+{"timestamp": "2024-09-13T06:14:52.473133", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 66.42, "latency": 1500.43}}
+{"timestamp": "2024-09-12T10:57:52.473151", "log": {"level": "INFO", "message": "Timeout occurred"}, "metrics": {"cpu": 68.87, "latency": 1400.19}}
+{"timestamp": "2024-09-10T23:13:52.473168", "log": {"level": "INFO", "message": "Timeout occurred"}, "metrics": {"cpu": 48.08, "latency": 1143.72}}
+{"timestamp": "2024-09-10T08:54:52.473185", "log": {"level": "DEBUG", "message": "User not found"}, "metrics": {"cpu": 91.14, "latency": 1440.79}}
+{"timestamp": "2024-09-08T23:01:52.473202", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 60.28, "latency": 270.21}}
+{"timestamp": "2024-09-07T18:22:52.473219", "log": {"level": "ERROR", "message": "Service started"}, "metrics": {"cpu": 61.43, "latency": 645.21}}
+{"timestamp": "2024-09-07T10:35:52.473236", "log": {"level": "ERROR", "message": "Health check passed"}, "metrics": {"cpu": 73.45, "latency": 1264.55}}
+{"timestamp": "2024-09-05T19:57:52.473267", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 23.75, "latency": 1651.4}}
+{"timestamp": "2024-09-05T07:55:52.473285", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 62.69, "latency": 220.74}}
+{"timestamp": "2024-09-04T08:46:52.473302", "log": {"level": "ERROR", "message": "Database reconnected"}, "metrics": {"cpu": 21.87, "latency": 263.96}}
+{"timestamp": "2024-09-02T15:50:52.473319", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 24.79, "latency": 872.84}}
+{"timestamp": "2024-09-02T13:54:52.473336", "log": {"level": "DEBUG", "message": "User not found"}, "metrics": {"cpu": 40.63, "latency": 858.13}}
+{"timestamp": "2024-08-31T16:11:52.473353", "log": {"level": "ERROR", "message": "Authentication failed"}, "metrics": {"cpu": 68.19, "latency": 1557.2}}
+{"timestamp": "2024-08-31T13:53:52.473369", "log": {"level": "INFO", "message": "Authentication failed"}, "metrics": {"cpu": 65.33, "latency": 343.06}}
+{"timestamp": "2024-08-30T14:38:52.473386", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 55.43, "latency": 1305.76}}
+{"timestamp": "2024-08-29T12:37:52.473403", "log": {"level": "INFO", "message": "Retry limit reached"}, "metrics": {"cpu": 21.6, "latency": 1888.46}}
+{"timestamp": "2024-08-27T20:41:52.473420", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 40.88, "latency": 1188.23}}
+{"timestamp": "2024-08-27T00:27:52.473437", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 10.53, "latency": 1916.79}}
+{"timestamp": "2024-08-26T10:25:52.473454", "log": {"level": "DEBUG", "message": "Retry limit reached"}, "metrics": {"cpu": 24.77, "latency": 469.3}}
+{"timestamp": "2024-08-25T04:05:52.473471", "log": {"level": "INFO", "message": "Database reconnected"}, "metrics": {"cpu": 75.04, "latency": 183.82}}
+{"timestamp": "2024-08-23T22:12:52.473488", "log": {"level": "INFO", "message": "Retry limit reached"}, "metrics": {"cpu": 70.09, "latency": 117.02}}
+{"timestamp": "2024-08-23T07:30:52.473505", "log": {"level": "ERROR", "message": "Service started"}, "metrics": {"cpu": 66.87, "latency": 977.43}}
+{"timestamp": "2024-08-22T00:55:52.473521", "log": {"level": "INFO", "message": "User not found"}, "metrics": {"cpu": 12.93, "latency": 1709.98}}
+{"timestamp": "2024-08-21T04:34:52.473538", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 13.97, "latency": 235.94}}
+{"timestamp": "2024-08-19T19:01:52.473555", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 93.09, "latency": 1121.3}}
+{"timestamp": "2024-08-19T04:15:52.473572", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 24.22, "latency": 1002.22}}
+{"timestamp": "2024-08-18T12:51:52.473589", "log": {"level": "ERROR", "message": "Timeout occurred"}, "metrics": {"cpu": 87.58, "latency": 1705.65}}
+{"timestamp": "2024-08-17T11:51:52.473606", "log": {"level": "ERROR", "message": "Health check passed"}, "metrics": {"cpu": 61.34, "latency": 1725.35}}
+{"timestamp": "2024-08-16T10:31:52.473622", "log": {"level": "DEBUG", "message": "Database reconnected"}, "metrics": {"cpu": 62.73, "latency": 1204.74}}
+{"timestamp": "2024-08-15T10:42:52.473639", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 24.29, "latency": 297.41}}
+{"timestamp": "2024-08-14T14:13:52.473656", "log": {"level": "ERROR", "message": "Timeout occurred"}, "metrics": {"cpu": 58.98, "latency": 1442.81}}
+{"timestamp": "2024-08-12T21:47:52.473672", "log": {"level": "DEBUG", "message": "Authentication failed"}, "metrics": {"cpu": 69.25, "latency": 309.53}}
+{"timestamp": "2024-08-12T04:12:52.473690", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 85.59, "latency": 844.44}}
+{"timestamp": "2024-08-11T02:06:52.473707", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 58.62, "latency": 702.19}}
+{"timestamp": "2024-08-10T04:50:52.473723", "log": {"level": "INFO", "message": "Health check passed"}, "metrics": {"cpu": 37.98, "latency": 812.51}}
+{"timestamp": "2024-08-08T22:12:52.473740", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 38.91, "latency": 1154.19}}
+{"timestamp": "2024-08-08T06:50:52.473757", "log": {"level": "INFO", "message": "Retry limit reached"}, "metrics": {"cpu": 39.92, "latency": 784.39}}
+{"timestamp": "2024-08-07T01:55:52.473773", "log": {"level": "ERROR", "message": "Authentication failed"}, "metrics": {"cpu": 54.64, "latency": 1839.19}}
+{"timestamp": "2024-08-05T20:18:52.473790", "log": {"level": "DEBUG", "message": "User not found"}, "metrics": {"cpu": 49.87, "latency": 1206.32}}
+{"timestamp": "2024-08-04T17:07:52.473807", "log": {"level": "ERROR", "message": "Timeout occurred"}, "metrics": {"cpu": 19.51, "latency": 305.84}}
+{"timestamp": "2024-08-04T12:19:52.473824", "log": {"level": "DEBUG", "message": "Timeout occurred"}, "metrics": {"cpu": 39.49, "latency": 1208.58}}
+{"timestamp": "2024-08-03T05:22:52.473841", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 54.79, "latency": 844.66}}
+{"timestamp": "2024-08-01T22:21:52.473857", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 61.21, "latency": 1897.44}}
+{"timestamp": "2024-08-01T07:50:52.473874", "log": {"level": "ERROR", "message": "Retry limit reached"}, "metrics": {"cpu": 24.98, "latency": 1878.91}}
+{"timestamp": "2024-07-31T03:34:52.473891", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 79.06, "latency": 720.48}}
+{"timestamp": "2024-07-29T18:43:52.473908", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 80.78, "latency": 1958.65}}
+{"timestamp": "2024-07-29T06:22:52.473924", "log": {"level": "INFO", "message": "Timeout occurred"}, "metrics": {"cpu": 71.91, "latency": 1806.33}}
+{"timestamp": "2024-07-27T19:56:52.473942", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 63.8, "latency": 401.0}}
+{"timestamp": "2024-07-26T16:28:52.473959", "log": {"level": "DEBUG", "message": "Health check passed"}, "metrics": {"cpu": 33.56, "latency": 436.67}}
+{"timestamp": "2024-07-25T23:43:52.473976", "log": {"level": "DEBUG", "message": "Database reconnected"}, "metrics": {"cpu": 81.71, "latency": 1031.74}}
+{"timestamp": "2024-07-24T22:10:52.473993", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 32.35, "latency": 1294.04}}
+{"timestamp": "2024-07-23T18:05:52.474009", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 59.2, "latency": 1468.7}}
+{"timestamp": "2024-07-22T21:04:52.474026", "log": {"level": "ERROR", "message": "Database reconnected"}, "metrics": {"cpu": 60.6, "latency": 1134.58}}
+{"timestamp": "2024-07-22T10:12:52.474091", "log": {"level": "ERROR", "message": "Authentication failed"}, "metrics": {"cpu": 84.24, "latency": 1146.97}}
+{"timestamp": "2024-07-21T07:45:52.474116", "log": {"level": "DEBUG", "message": "Health check passed"}, "metrics": {"cpu": 75.83, "latency": 1902.99}}
+{"timestamp": "2024-07-19T17:06:52.474134", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 73.42, "latency": 1967.64}}
+{"timestamp": "2024-07-19T01:12:52.474151", "log": {"level": "ERROR", "message": "Service started"}, "metrics": {"cpu": 47.88, "latency": 1043.46}}
+{"timestamp": "2024-07-17T21:00:52.474168", "log": {"level": "ERROR", "message": "Service started"}, "metrics": {"cpu": 77.6, "latency": 1293.72}}
+{"timestamp": "2024-07-16T21:03:52.474185", "log": {"level": "DEBUG", "message": "Database reconnected"}, "metrics": {"cpu": 64.57, "latency": 242.37}}
+{"timestamp": "2024-07-16T00:04:52.474202", "log": {"level": "ERROR", "message": "Health check passed"}, "metrics": {"cpu": 13.21, "latency": 239.27}}
+{"timestamp": "2024-07-15T01:42:52.474218", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 43.72, "latency": 139.3}}
+{"timestamp": "2024-07-13T22:29:52.474244", "log": {"level": "ERROR", "message": "Service started"}, "metrics": {"cpu": 33.07, "latency": 822.73}}
+{"timestamp": "2024-07-13T03:39:52.474263", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 80.42, "latency": 1298.17}}
+{"timestamp": "2024-07-11T21:04:52.474280", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 46.44, "latency": 852.7}}
+{"timestamp": "2024-07-11T12:10:52.474296", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 74.36, "latency": 1694.46}}
+{"timestamp": "2024-07-10T10:24:52.474312", "log": {"level": "DEBUG", "message": "Health check passed"}, "metrics": {"cpu": 81.08, "latency": 155.57}}
+{"timestamp": "2024-07-09T00:59:52.474329", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 19.83, "latency": 422.81}}
+{"timestamp": "2024-07-07T23:02:52.474346", "log": {"level": "ERROR", "message": "Authentication failed"}, "metrics": {"cpu": 79.0, "latency": 556.78}}
+{"timestamp": "2024-07-06T23:01:52.474362", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 82.95, "latency": 339.57}}
+{"timestamp": "2024-07-06T12:44:52.474379", "log": {"level": "INFO", "message": "Health check passed"}, "metrics": {"cpu": 40.16, "latency": 956.93}}
+{"timestamp": "2024-07-05T00:25:52.474396", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 13.7, "latency": 385.66}}
+{"timestamp": "2024-07-04T00:03:52.474413", "log": {"level": "DEBUG", "message": "Retry limit reached"}, "metrics": {"cpu": 87.88, "latency": 1710.05}}
+{"timestamp": "2024-07-03T08:01:52.474429", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 86.51, "latency": 1331.73}}
+{"timestamp": "2024-07-02T09:33:52.474446", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 86.11, "latency": 1395.1}}
+{"timestamp": "2024-06-30T20:07:52.474462", "log": {"level": "ERROR", "message": "Authentication failed"}, "metrics": {"cpu": 54.97, "latency": 1540.74}}
+{"timestamp": "2024-06-29T23:08:52.474479", "log": {"level": "INFO", "message": "Retry limit reached"}, "metrics": {"cpu": 50.22, "latency": 1405.14}}
+{"timestamp": "2024-06-29T00:32:52.474495", "log": {"level": "ERROR", "message": "Retry limit reached"}, "metrics": {"cpu": 15.38, "latency": 548.75}}
+{"timestamp": "2024-06-28T12:43:52.474512", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 17.7, "latency": 1528.75}}
+{"timestamp": "2024-06-27T01:06:52.474529", "log": {"level": "DEBUG", "message": "Health check passed"}, "metrics": {"cpu": 21.06, "latency": 522.16}}
+{"timestamp": "2024-06-26T05:16:52.474545", "log": {"level": "INFO", "message": "Service started"}, "metrics": {"cpu": 30.14, "latency": 825.05}}
+{"timestamp": "2024-06-24T21:11:52.474562", "log": {"level": "INFO", "message": "Database reconnected"}, "metrics": {"cpu": 94.49, "latency": 1439.0}}
+{"timestamp": "2024-06-24T10:41:52.474578", "log": {"level": "INFO", "message": "Timeout occurred"}, "metrics": {"cpu": 61.67, "latency": 1275.88}}
+{"timestamp": "2024-06-22T20:35:52.474595", "log": {"level": "DEBUG", "message": "Authentication failed"}, "metrics": {"cpu": 80.35, "latency": 405.14}}
+{"timestamp": "2024-06-22T02:47:52.474612", "log": {"level": "INFO", "message": "Retry limit reached"}, "metrics": {"cpu": 65.82, "latency": 1954.91}}
+{"timestamp": "2024-06-21T04:18:52.474628", "log": {"level": "INFO", "message": "Retry limit reached"}, "metrics": {"cpu": 12.74, "latency": 1640.18}}
+{"timestamp": "2024-06-20T12:50:52.474645", "log": {"level": "DEBUG", "message": "Authentication failed"}, "metrics": {"cpu": 70.47, "latency": 1841.69}}
+{"timestamp": "2024-06-19T09:50:52.474662", "log": {"level": "DEBUG", "message": "Service started"}, "metrics": {"cpu": 47.65, "latency": 1765.19}}
+{"timestamp": "2024-06-18T10:56:52.474678", "log": {"level": "ERROR", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 75.18, "latency": 493.42}}
+{"timestamp": "2024-06-17T03:23:52.474694", "log": {"level": "INFO", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 46.82, "latency": 1160.35}}
+{"timestamp": "2024-06-15T21:32:52.474711", "log": {"level": "DEBUG", "message": "Cache refreshed successfully"}, "metrics": {"cpu": 43.49, "latency": 1331.73}}
+{"timestamp": "2024-06-15T12:48:52.474727", "log": {"level": "DEBUG", "message": "Database reconnected"}, "metrics": {"cpu": 75.06, "latency": 900.99}}
+{"timestamp": "2024-06-14T11:34:52.474744", "log": {"level": "ERROR", "message": "User not found"}, "metrics": {"cpu": 73.97, "latency": 88.35}}
